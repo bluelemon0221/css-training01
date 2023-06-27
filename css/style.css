@@ -49,3 +49,21 @@ h2 {
     text-align: center;
     margin-top: 100px;
 }
+.profile {
+    max-width: 700px;
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+}
+.my-icon img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.my-name {
+    margin: 20px;
+}
+.name {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
